@@ -60,6 +60,7 @@ display: flex;
 .showcase{
     background-color: #047aed;
     height: 400px;
+    width:350;
     color: white;
     position: relative;
 }
